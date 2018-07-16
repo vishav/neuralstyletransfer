@@ -25,13 +25,19 @@ I ran this code on my laptop which had Nvidia GPU installed, which is why I used
 
 
 <div style='display: inline-block;'>
-<img src="./input/content.jpg" alt="drawing" width="200px" height="200px"/>
-<img src="./input/style.jpg" alt="drawing" width="200px" height="200px"/>
-<img src="./output/content-style.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./input/content.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./input/style.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./output/content-style.jpg" alt="drawing" width="200px" height="200px"/>
 </div>
 
 <div style='display: inline-block;'>
-<img src="./input/venetian.jpg" alt="drawing" width="200px" height="200px"/>
-<img src="./input/wave.jpg" alt="drawing" width="200px" height="200px"/>
-<img src="./output/venetian-wave.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./input/venetian.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./input/wave.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./output/venetian-wave.jpg" alt="drawing" width="200px" height="200px"/>
+</div>
+
+<div style='display: inline-block;'>
+	<img src="./input/tajmahal.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./input/saatchiart.jpg" alt="drawing" width="200px" height="200px"/>
+	<img src="./output/tajmahal-saatchiart.jpg" alt="drawing" width="200px" height="200px"/>
 </div>
