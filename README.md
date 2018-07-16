@@ -4,7 +4,7 @@ The repository contains the code for artistic style transfer using convolutional
 
 **Important**
 I ran this code on my laptop which had Nvidia GPU installed, which is why I used tensorflow-gpu to take advantage of my laptop GPU. If
-  your machine doesn't have GPU, then modify line 56 from
+  your machine doesn't have GPU, then modify line 56 in the requirements.txt from
   `tensorflow-gpu==1.9.0` to `tensorflow==1.9.0`
   
 **Setup**
@@ -24,10 +24,14 @@ I ran this code on my laptop which had Nvidia GPU installed, which is why I used
 	`jupyter notebook`
 
 
+<div style='display: inline-block;'>
 <img src="./input/content.jpg" alt="drawing" width="200px" height="200px"/>
 <img src="./input/style.jpg" alt="drawing" width="200px" height="200px"/>
 <img src="./output/content-style.jpg" alt="drawing" width="200px" height="200px"/>
+</div>
 
+<div style='display: inline-block;'>
 <img src="./input/venetian.jpg" alt="drawing" width="200px" height="200px"/>
 <img src="./input/wave.jpg" alt="drawing" width="200px" height="200px"/>
 <img src="./output/venetian-wave.jpg" alt="drawing" width="200px" height="200px"/>
+</div>
